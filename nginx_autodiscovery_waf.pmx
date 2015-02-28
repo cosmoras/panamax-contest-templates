@@ -1,0 +1,10 @@
+---
+name: nginx_autodiscovery_waf
+description: ''
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: xcgd_nginx-naxsi-autodiscovery_latest
+  source: xcgd/nginx-naxsi-autodiscovery:latest
+  type: Default
